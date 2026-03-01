@@ -16,3 +16,5 @@
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
 </div>
+
+<div align="center">antiMRS.ru</div>
